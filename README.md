@@ -1,40 +1,28 @@
+
 ### 국내 뉴스
 
-#### 핀테크 관련 뉴스
-1. **[황병우 DGB금융 차기회장, 핀테크 성지 찾았다...‘핀테크 상생은행’ 박차](https://www.fnnews.com/ampNews/202403071041286355)**
-   - 출처: 파이낸셜뉴스
-   - 요약: DGB대구은행이 시중은행으로 전환을 앞두고 '핀테크 상생은행'으로 도약하겠다는 비전을 발표했다.
+#### 핀테크 관련
 
-2. **[대구은행, 핀테크 힘 싣는다](https://www.idaegu.co.kr/news/articleView.html?idxno=452706)**
-   - 출처: 대구신문
-   - 요약: DGB대구은행이 시중은행 전환을 앞두고 스타트업 육성·투자를 통한 지원 강화 등 협력 방안 모색을 위해 다양한 핀테크 관련 논의를 진행했다.
+1. [“핀테크 규제 완화”…정부, 외국환업무 확대·금융규제 샌드박스 상정](https://m.dailian.co.kr/amp/news/view/1338358) (데일리안)
+   - 정부가 외국환업무 범위를 확대하고, 금융규제 샌드박스를 상정하는 등 핀테크 규제를 완화한다고 발표했습니다.
 
-#### 금융/보험 IT 관련 뉴스
-1. **[SK C&C, 흥국생명에 디지털 심사 단축 시스템 구축](https://www.hankooki.com/news/articleViewAmp.html?idxno=142111)**
-   - 출처: 한국아이닷컴
-   - 요약: SK C&C는 흥국생명에 디지털 기반 보험 선(先)심사 및 설계사 맞춤형 디지털 SFA(영업자동화) 구현에 나섰다고 밝혔다.
+2. [“트래블월렛을 카뱅에 이식” 카카오뱅크, 외화 서비스 위해 핀테크 손 잡는다](http://biz.heraldcorp.com/view.php?ud=20240311050204) (헤럴드경제)
+   - 카카오뱅크가 외화 충전 및 결제 서비스 핀테크 스타트업 '트래블월렛'과 업무 협약을 체결, 외화 서비스 확장을 위해 협력한다고 밝혔습니다.
 
-2. **[바이셀스탠다드, 아시안뱅커지 선정 ‘DeFi 최우수 혁신상’ 수상](https://m.dailian.co.kr/amp/news/view/1336782)**
-   - 출처: 데일리안
-   - 요약: 바이셀스탠다드가 앞선 IT 역량을 인정받아 글로벌 금융 어워드에서 'DeFi 최우수 혁신상'을 수상했다.
+3. [서울시, 31일까지 '서울핀테크랩' 입주 기업 모집](https://www.metroseoul.co.kr/article/20240311500430) (메트로신문)
+   - 서울시가 핀테크 스타트업 육성기관인 '서울핀테크랩'에 입주할 기업 30개사를 모집한다고 발표했습니다.
 
-### 해외 뉴스
+#### 금융 IT 관련
 
-#### Fintech 관련 뉴스
-1. **[Fintech Festival India](https://events.coinpedia.org/1358-fintech-festival-india/)**
-   - 출처: Coinpedia
-   - 요약: 2024년 3월 6일부터 8일까지 뉴델리에서 열리는 Fintech Festival India 2024는 인도의 금융 풍경을 변화시킬 게임 체인저가 될 것으로 예상된다.
+1. [삼성디스플레이의 '8.6세대 IT OLED' 투자... 본격 신호탄](https://m.dailian.co.kr/amp/news/view/1337269) (데일리안)
+   - 삼성디스플레이가 8.6세대 IT OLED 설비 투자를 시작, 2026년 양산 목표로 본격적인 신호탄을 쏘아 올렸습니다.
 
-2. **[IA Engine Welcomes New FinTech Innovators, Expands Global Network with FinTech Cadence Partnership](https://bnnbreaking.com/tech/ia-engine-welcomes-new-fintech-innovators-expands-global-network-with-fintech-cadence-partnership)**
-   - 출처: BNN
-   - 요약: IA Engine과 FinTech Cadence의 파트너십은 자산 관리를 혁신하고 FinTech 부문에서 새로운 혁신의 시대를 표시하는 것을 목표로 한다.
+2. [사람인, IT 프리랜서 프로필 등록하면 상품권 쏜다](https://zdnet.co.kr/view/?no=20240311140729) (지디넷코리아)
+   - 사람인이 운영하는 프리랜서 플랫폼에서 IT 프리랜서 개인회원 대상으로 프로필 등록 행사를 진행, 상품권을 제공한다고 발표했습니다.
 
-#### InsurTech 관련 뉴스
-1. **[InsurTech Hartford Announces 2024 Industry Influencer Award Honorees](https://www.benzinga.com/amp/content/37487173)**
-   - 출처: Benzinga
-   - 요약: InsurTech Hartford는 보험 혁신을 주도하고 업계에 긍정적인 영향을 미치는 개인을 축하하는 올해의 산업 영향력자 상 수상자를 발표했다.
+3. [삼성전자 출신 IT 전략가, 크라우드웍스 대표로 영입](https://zdnet.co.kr/view/?no=20240312090348) (지디넷코리아)
+   - 크라우드웍스가 삼성전자, SK텔레콤 등에서 디지털전환(DX)을 이끈 IT 전략가를 대표로 영입해 인공지능(AI) 기술 개발과 신사업을 본격화한다고 밝혔습니다.
 
-2. **[Porch Group Earnings Show Resilience for InsurTech Category](https://www.pymnts.com/insurance/2024/porch-group-earnings-show-resilience-for-insurtech-category/)**
-   - 출처: PYMNTS.com
-   - 요약: Porch Group의 견고한 4분기 실적은 InsurTech 카테고리의 재정적 회복력을 보여주며, 이 부문의 성장과 잠재력을 강조한다.
+### 해외 뉴스 (동남아시아)
 
+현재 InsurTech 관련 동남아시아 뉴스는 검색되지 않았습니다. 다른 키워드나 주제로 재검색을 원하시면 알려주세요.
