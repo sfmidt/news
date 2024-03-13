@@ -1,5 +1,6 @@
 title: 뉴스레터
 description: AI 활용 뉴스레터
 remote_theme: pages-themes/slate@v0.2.0
+show_downloads: false
 plugins:
 - jekyll-remote-theme 
