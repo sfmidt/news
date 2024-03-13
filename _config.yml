@@ -1,5 +1,5 @@
 title: 뉴스레터
-description: AI를 활용한 뉴스레터
-remote_theme: pages-themes/architect@v0.2.0
+description: AI를 활용 뉴스레터
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme
+- jekyll-remote-theme 
